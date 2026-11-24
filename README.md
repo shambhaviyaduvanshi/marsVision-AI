@@ -12,7 +12,8 @@ segmentation (**Soil**, **Bedrock**, **Sand**, **Big Rock**).
 - `server.py` — Flask backend and PyTorch inference pipeline
 - `templates/index.html` — Frontend UI and interactive telemetry visualization
 - `static/samples/` — Sample rover images (`mars pic.jpg`) for quick testing
-- `deeplabv3plus_ai4mars.pt` — Trained model weights (place in the project root directory)
+- `deeplabv3plus_ai4mars.pt` — Trained model weights (place in the project root directory).
+- [Download deeplabv3plus_ai4mars.pt](https://github.com/shambhaviyaduvanshi/marsVision-AI/releases/download/v1.0/deeplabv3plus_ai4mars.pt)
 
 ## Run Locally
 ```bash
